@@ -7,11 +7,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Engineer,+iOS+Developer,+Software+Engineer&width=620&height=45&color=83858a"></a>
 </p>
 
+## ⭐  About Me
+- 🙋 I'm a **Computer Engineer**
+- 📚 I graduated from the **University of North Texas**
 - 🔭 I’m currently working on **all things SwiftUI**
 - 🌱 I’m currently learning **React**
-- 💬 Ask me about **my app on the apple App Store**
+- 💬 Ask me about **my apps on the apple App Store**
 - ⚡ Fun fact: **I am a Rated United States Parachute Association Coach**
-- 📫 How to reach me:
+
+## 📫 How To Reach Me
 
 [<img src="https://img.shields.io/badge/coreysmith.me-282C34?logo=About.me&logoColor=f5f5f7" alt="Website logo" title="Website" height="25" />](https://coreysmith.me)
 &nbsp;
