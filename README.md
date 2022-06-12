@@ -1,5 +1,5 @@
 <div align="center">
-   <h3>Hi there, I'm <a href="https://coreysmith.me">Corey</a> <img src="assets/wave.gif" width="25px"> </h3>
+   <h3>Hi there, I'm <a href="https://coreysmith.me">Corey</a> <img src="assets/wave.gif" width="25px" height="25px"> </h3>
 </div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
